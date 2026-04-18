@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/HP VICTUS/OneDrive/Documents/Unreal Projects/ass/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/HP VICTUS/OneDrive/Documents/Unreal Projects/ass/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/HP VICTUS/OneDrive/Documents/Unreal Projects/ass/Content/Input/IMC_Default.uasset",
+				"C:/Users/HP VICTUS/OneDrive/Documents/Unreal Projects/ass/Content/Input/Actions/IA_Grapple.uasset",
+				"C:/Users/HP VICTUS/OneDrive/Documents/Unreal Projects/ass/Content/Input/Actions/IA_SwitchGrapple.uasset",
+				"C:/Users/HP VICTUS/OneDrive/Documents/Unreal Projects/ass/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset"
 			]
 		}
 	]
