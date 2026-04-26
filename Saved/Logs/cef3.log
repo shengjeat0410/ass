@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [23816:10164:0426/141431.932:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [23816:10164:0426/141432.165:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [23816:22924:0426/141432.409:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
@@ -6329,3 +6330,11 @@ device_id: OBS Virtual Camera, display_name: OBS Virtual Camera
 [23816:20356:0426/180035.306:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000643C00156D40}, {new_limit=23})
 [23816:20356:0426/180036.307:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000643C00156D40}, {new_limit=24})
 [23816:20356:0426/180040.309:VERBOSE1:media_stream_manager.cc(1533)] MSPL::OnSpeedLimitChange({this=0000643C00156D40}, {new_limit=23})
+=======
+[35984:26712:0426/201909.559:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[35984:20168:0426/201909.633:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[35984:26712:0426/201909.666:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13512:30620:0426/201919.258:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-FDEACA82776BB0D4AC3D55893C0447D7 will be ignored
+[22208:36532:0426/202128.147:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[35984:26712:0426/203043.114:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
